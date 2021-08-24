@@ -2,7 +2,7 @@
 
 Espero que você e sua família se encontre bem!
 
-- Nesse perfil você encontra vários projetos contemplando várias tecnologias diferentes.
+- Nesse perfil você encontra alguns projetos contemplando várias tecnologias diferentes.
 - Atualmente trabalho como Programadora Full Stack.
 
 ### Algumas estatísticas :bar_chart:
