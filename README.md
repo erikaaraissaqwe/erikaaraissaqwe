@@ -5,13 +5,10 @@ Espero que você e sua família se encontre bem!
 - Nesse perfil você encontra alguns projetos contemplando várias tecnologias diferentes.
 - Atualmente trabalho como Programadora Full Stack.
 
-### Algumas estatísticas :bar_chart:
- <div>
-  <a href="https://github.com/erikaaraissaqwe">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikaaraissaqwe&layout=compact&langs_count=7&theme=dracula"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikaaraissaqwe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+ 
+ ### Contribuições
+ <img alt="Contributions" src="https://github.com/erikaaraissaqwe/erikaaraissaqwe/blob/output/github-contribution-grid-snake.svg">
+ 
  ### Linguagens de programação e frameworks:
   
 <div style="display: inline_block"><br>
@@ -25,6 +22,13 @@ Espero que você e sua família se encontre bem!
   <img align="center" alt="Node" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
  
 </div>
+ 
+ ### Algumas estatísticas :bar_chart:
+ <div>
+  <a href="https://github.com/erikaaraissaqwe">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikaaraissaqwe&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikaaraissaqwe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div> 
   
  ### Fale comigo :handshake:
 <div> 
