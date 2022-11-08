@@ -2,7 +2,7 @@
 
 Espero que você e sua família se encontre bem!
 
-- Atualmente trabalho como Programadora Full Stack.
+- Atualmente trabalho como Programadora.
 
  
  ### Contribuições
