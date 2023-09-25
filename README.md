@@ -2,7 +2,7 @@
 
 Espero que você e sua família se encontre bem!
 
-- Atualmente trabalho como Programadora.
+- Atualmente trabalho como Programadora Backend.
 
  
  ### Contribuições
@@ -32,6 +32,4 @@ Espero que você e sua família se encontre bem!
 <div> 
   <a href = "mailto:erikaaraissaqwe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erika-bueno-86390014a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
 </div>
